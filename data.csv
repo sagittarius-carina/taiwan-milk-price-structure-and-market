@@ -1,0 +1,9 @@
+year,category,value,unit,source
+2024,domestic_production_milk,452414,tons,public_data
+2024,domestic_raw_milk_cost,28.17ntd,kilogram,public_data
+2024,domestic_milk_ex-factory_price,56.33ntd,kilogram,public_data
+2025,import_volume,50000,tons,public_data
+2025,retail_price_low,90,TWD_per_liter,market_observation
+2025,retail_price_high,135,TWD_per_liter,market_observation
+2025,import_cost_low,27,TWD_per_liter,trade_data
+2025,import_cost_high,40,TWD_per_liter,trade_data
