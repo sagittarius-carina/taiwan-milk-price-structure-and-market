@@ -1,3 +1,4 @@
+Market narrative of milk industry  
 Claim:  Taiwanese fresh milk is mostly pasteurized at low temperatures.(HTST/LTLT)  
 Reality: Most products on the market are actually UHT(which can be verified by the packaging label)  
 Impact: Consumers have misunderstandings about quality and shelf life.  
@@ -7,11 +8,12 @@ How to verify:
 2. Check the sterilization method on the packaging (usually labeled UHT or Ultra-High Temperature).
 3. Compare with the official claims.
 
+乳品業界的市場敘事  
 Claim: 台灣鮮乳多為低溫殺菌（HTST/LTLT）  
 Reality: 市面上多數產品實為UHT（可由包裝標示驗證）  
 Impact: 消費者對品質與保存期限產生誤解  
 
-How to verify:
+驗證方法:
 1. 到超市拿任一品牌鮮乳
 2. 查看包裝上的殺菌方式（通常標示UHT或超高溫）
 3. 對照官方宣稱
